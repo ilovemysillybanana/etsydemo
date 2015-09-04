@@ -13,6 +13,7 @@ gem 'bootstrap-sass'
 gem 'paperclip'
 gem 'paperclip-dropbox'
 gem 'figaro'
+gem 'devise'
 
 group :production do
   gem 'pg'
